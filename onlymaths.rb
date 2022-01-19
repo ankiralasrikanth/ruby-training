@@ -1,0 +1,7 @@
+SRIKANTH1 = 200
+SRIKANTH2 = 300
+puts "SRIKANTH1"
+puts "SRIKANTH2"
+
+
+	
