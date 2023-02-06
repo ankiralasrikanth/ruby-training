@@ -1,0 +1,3 @@
+tv = ["maa","tv9","v6"]
+puts tv[1]
+puts tv[-1]
