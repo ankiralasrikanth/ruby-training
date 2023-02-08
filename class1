@@ -1,0 +1,11 @@
+class classname 
+    @@ wasted = false 
+    def points_calc 
+        points = 10;
+    end 
+    def game_over ?
+        @@wasted
+    end 
+    instance1 = classmethod1 
+    instance2 = classmethod2
+     
